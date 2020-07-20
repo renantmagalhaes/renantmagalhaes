@@ -1,4 +1,4 @@
-### [renantmagalhaes.net](https://renantmagalhaes.net) 👋.
+### [renantmagalhaes.net](https://renantmagalhaes.net)
 
 
 <br/>

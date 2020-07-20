@@ -1,4 +1,4 @@
-### Hi there, I'm [Renan!](https://renantmagalhaes.net) 👋.
+### [renantmagalhaes.net](https://renantmagalhaes.net) 👋.
 
 
 <br/>

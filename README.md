@@ -25,6 +25,7 @@ I’m a former sysadmin working in a Banking environment with BACEN (Central Ban
 <p>
     <img alt="AWS" src="https://img.shields.io/badge/-AWS-FB542B?style=flat&logo=amazon&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-009639?style=flat&logo=linux&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
@@ -39,6 +40,7 @@ I’m a former sysadmin working in a Banking environment with BACEN (Central Ban
 <p>
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> 
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-4A154B?style=flat&logo=debian&logoColor=white" /> 
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> 
   <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white" /> 
   <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=flat&logo=kali-linux&logoColor=white" />
@@ -52,6 +54,12 @@ I’m a former sysadmin working in a Banking environment with BACEN (Central Ban
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" /> 
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=synthwave)
 
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,4 +1,4 @@
-## Hello, my name is Renan :space_invader:
+## :space_invader: Hello, my name is Renan
 
 I’m a DevOps engineer focussed in cloud computing and cybersecurity.
 

@@ -1,10 +1,10 @@
 ## Hello, my name is Renan :space_invader:
 
+I’m a DevOps engineer focussed in cloud computing and cybersecurity.
 
-I’m a former sysadmin working in a Banking environment with BACEN (Central Bank of Brazil) and SPB (Brazilian payment system), with an active participation in Linux and Windows systems administration, I`m was also responsible for project management in this area. Now working as DevOps engineer focused in build secure and high distributed systems inside Cloud environments.
+If you want to know more about me or my work feel free to contact me via my social medias bellow, or my [website](https://rtm.codes)
 
 
-### [rtm.codes](https://rtm.codes)
 <br/>
 <a href="https://twitter.com/renanTM90">
   <img align="left" alt="RenanTM| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,7 +15,6 @@ I’m a former sysadmin working in a Banking environment with BACEN (Central Ban
 <a href="https://t.me/renantmagalhaes">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
 <br />
 
 *************
@@ -57,19 +56,6 @@ I’m a former sysadmin working in a Banking environment with BACEN (Central Ban
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=yeblu)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=react)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=midnight-purple)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=material-palenight)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=gotham)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=vision-friendly-dark)
-
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 *************
 
@@ -88,7 +74,7 @@ I’m a former sysadmin working in a Banking environment with BACEN (Central Ban
 
 ***********************************
 -->
-#### ⚡ Best regards ⚡
+#### Best regards :shipit:
 
 
 <!--
@@ -105,5 +91,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:shipit:
-

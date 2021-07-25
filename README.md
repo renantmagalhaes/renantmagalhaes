@@ -2,18 +2,18 @@
 
 I’m a DevOps engineer focussed in cloud computing and cybersecurity.
 
-If you want to know more about me or my work feel free to contact me via my social medias bellow, or my [website](https://rtm.codes)
+If you want to know more about me or my work feel free to contact me via my social medias bellow or [access my website](https://rtm.codes)
 
 
 <br/>
 <a href="https://twitter.com/renanTM90">
-  <img align="left" alt="RenanTM| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="RenanTM| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" />
 </a>
 <a href="https://www.linkedin.com/in/renantmagalhaes/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 <a href="https://t.me/renantmagalhaes">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 <br />
 
@@ -27,6 +27,7 @@ If you want to know more about me or my work feel free to contact me via my soci
   <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-009639?style=flat&logo=linux&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-557C94?style=flat&logo=jenkins&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> 
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
@@ -49,6 +50,7 @@ If you want to know more about me or my work feel free to contact me via my soci
 ### Productivity & Communication Tools
 <p>
   <img alt="VivaldiBrowser" src="https://img.shields.io/badge/-VivaldiBrowser-EE0000?style=flat&logo=vivaldi&logoColor=white" /> 
+  <img alt="Atlassian" src="https://img.shields.io/badge/-Atlassian-262577?style=flat&logo=atlassian&logoColor=white" /> 
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=notion&logoColor=white" />
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" /> 
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />

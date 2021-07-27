@@ -2,9 +2,9 @@
 
 I’m a DevSecOps engineer.
 
-I :heart: cybersecurity and cloud computing (and all its possibilities)
+I :heart: cybersecurity and cloud computing.
 
-If you want to know more about me or my work, feel free to contact me via my social medias bellow or [access my website](https://rtm.codes)
+If you want to know more about me or my work, feel free to contact me via my social medias bellow or [access my website.](https://rtm.codes)
 
 
 <br/>

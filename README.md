@@ -1,8 +1,10 @@
 ## :space_invader: Hello, my name is Renan
 
-I’m a DevOps engineer focussed in cloud computing and cybersecurity.
+I’m a DevSecOps engineer.
 
-If you want to know more about me or my work feel free to contact me via my social medias bellow or [access my website](https://rtm.codes)
+I :heart: cybersecurity and cloud computing (and all its possibilities)
+
+If you want to know more about me or my work, feel free to contact me via my social medias bellow or [access my website](https://rtm.codes)
 
 
 <br/>

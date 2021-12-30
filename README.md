@@ -4,10 +4,13 @@ I’m a DevSecOps engineer.
 
 I :heart: cybersecurity and cloud computing.
 
-If you want to know more about me or my work, feel free to contact me via my social medias bellow or [access my website.](https://rtm.codes)
+If you want to know more about me or my work, feel free to contact me via my social media below or [access my website.](https://rtm.codes)
 
 
 <br/>
+<a href="mailto:renantmagalhaes@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" />
+</a>
 <a href="https://twitter.com/renanTM90">
   <img align="left" alt="RenanTM| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" />
 </a>
@@ -46,6 +49,7 @@ If you want to know more about me or my work, feel free to contact me via my soc
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> 
   <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white" /> 
   <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=flat&logo=kali-linux&logoColor=white" />
+  <img alt="OpenSuse" src="https://img.shields.io/badge/-OpenSuse-009639?style=flat&logo=suse&logoColor=green" />
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
 </p>
 

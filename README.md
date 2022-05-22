@@ -1,31 +1,18 @@
-`~/.profile :space_invader:`
+`~/.profile` :space_invader:
+
+
 
 ```yaml
 name:        Renan
 ```
-I’m a DevSecOps engineer, with a deep interest in  cybersecurity(:heart:) and automation.
+I’m a DevSecOps engineer, with a deep interest in  cybersecurity:heart: and automation.
 
 If you want to know more about me or my work, feel free to contact me via my social media below or [access my website.](https://rtm.codes)
 
 
-<br/>
-<a href="mailto:renantmagalhaes@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" />
-</a>
-<a href="https://twitter.com/renanTM90">
-  <img align="left" alt="RenanTM| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" />
-</a>
-<a href="https://www.linkedin.com/in/renantmagalhaes/">
-  <img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
-</a>
-<a href="https://t.me/renantmagalhaes">
-  <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
-</a>
 <br />
 
-*************
-
-## 🛠️ Technologies and Tools
+`~/.skills` :floppy_disk:
 ### DevOps & Cloud Technologies
 <p>
     <img alt="AWS" src="https://img.shields.io/badge/-AWS-FB542B?style=flat&logo=amazon&logoColor=white" />
@@ -50,6 +37,7 @@ If you want to know more about me or my work, feel free to contact me via my soc
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> 
   <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white" /> 
   <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=flat&logo=kali-linux&logoColor=white" />
+  <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-0B57A4?style=flat&logo=Fedora&logoColor=white" />
   <img alt="OpenSuse" src="https://img.shields.io/badge/-OpenSuse-009639?style=flat&logo=suse&logoColor=green" />
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
 </p>
@@ -63,11 +51,31 @@ If you want to know more about me or my work, feel free to contact me via my soc
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
 
+`~/.stats` :alien: 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=tokyonight)
 
 
+`~/.contact` :mailbox:
+
+<br/>
+<a href="mailto:renan@rtm.codes">
+  <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" />
+</a>
+<a href="https://twitter.com/renanTM90">
+  <img align="left" alt="RenanTM| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" />
+</a>
+<a href="https://www.linkedin.com/in/renantmagalhaes/">
+  <img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+</a>
+<a href="https://t.me/renantmagalhaes">
+  <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+</a>
+<br />
+
 *************
 
+#### Best regards :shipit:
 
 <!--
 ### - Languages and Tools...
@@ -83,7 +91,7 @@ If you want to know more about me or my work, feel free to contact me via my soc
 
 ***********************************
 -->
-#### Best regards :shipit:
+
 
 
 <!--
@@ -98,5 +106,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ 🛠️  Fun fact: ...
 -->

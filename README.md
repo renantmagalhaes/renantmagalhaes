@@ -1,8 +1,9 @@
-## :space_invader: Hello, my name is Renan
+`~/.profile :space_invader:`
 
-I’m a DevSecOps engineer.
-
-I :heart: cybersecurity and cloud computing.
+```yaml
+name:        Renan
+```
+I’m a DevSecOps engineer, with a deep interest in  cybersecurity(:heart:) and automation.
 
 If you want to know more about me or my work, feel free to contact me via my social media below or [access my website.](https://rtm.codes)
 

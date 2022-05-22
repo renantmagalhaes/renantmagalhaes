@@ -1,12 +1,10 @@
-`~/.profile` :space_invader:
 
 ```yaml
-~/.profile :space_invader:
+~/.profile
+
+Name: Renan
 ```
 
-```yaml
-name:        Renan
-```
 I’m a DevSecOps engineer, with a deep interest in  cybersecurity:heart: and automation.
 
 If you want to know more about me or my work, feel free to contact me via my social media below or [access my website.](https://rtm.codes)
@@ -14,7 +12,10 @@ If you want to know more about me or my work, feel free to contact me via my soc
 
 <br />
 
-`~/.skills` :floppy_disk:
+```yaml
+~/.skills
+```
+
 ### DevOps & Cloud Technologies
 <p>
     <img alt="AWS" src="https://img.shields.io/badge/-AWS-FB542B?style=flat&logo=amazon&logoColor=white" />
@@ -53,12 +54,19 @@ If you want to know more about me or my work, feel free to contact me via my soc
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
 
-`~/.stats` :alien: 
+<br />
+
+```yaml
+~/.stats
+```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=tokyonight)
 
+<br />
 
-`~/.contact` :mailbox:
+```yaml
+~/.contact 📫
+```
 
 <br/>
 <a href="mailto:renan@rtm.codes">

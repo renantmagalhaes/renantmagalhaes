@@ -1,6 +1,6 @@
 
 ```yml
-[~/.profile] 👾
+~/.profile 👾
 ```
 
 Hello ~~

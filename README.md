@@ -1,7 +1,5 @@
 
-```
-```~/.profile``` 👾
-```
+```~/.profile 👾```
 
 Hello, my name is Renan and I’m a DevSecOps engineer, with a deep :heart: in cybersecurity and automation.
 

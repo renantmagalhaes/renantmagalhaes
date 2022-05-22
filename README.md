@@ -1,7 +1,7 @@
 
-```yml
-~/.profile 👾
-```
+
+ <span style="color:blue">~/.profile</span> 👾
+---
 
 Hello ~~
 

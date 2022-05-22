@@ -1,7 +1,11 @@
 
-```~/.profile 👾```
+```yml
+[~/.profile] 👾
+```
 
-Hello, my name is Renan and I’m a DevSecOps engineer, with a deep :heart: in cybersecurity and automation.
+Hello ~~
+
+My name is Renan and I’m a DevSecOps engineer, with a deep :heart: in cybersecurity and automation.
 
 If you want to know more about me or my work, feel free to contact me via my social media below or [access my website.](https://rtm.codes)
 

@@ -1,8 +1,7 @@
 
-
- <span style="color:blue">~/.profile</span> 👾
- 
----
+```diff
+ @@~/.profile @@ 👾
+```
 
 Hello ~~
 

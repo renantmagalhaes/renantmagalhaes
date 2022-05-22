@@ -1,6 +1,6 @@
 
 ```diff
-@@ ~/.profile @@
+@ ~/.profile @
 ```
 
 Hello ~~

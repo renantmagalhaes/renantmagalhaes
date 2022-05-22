@@ -1,9 +1,9 @@
 
 ```diff
-@@ ~/.profile 👾@@
+@@ ~/.profile @@
 ```
 
-Hello ~~
+Hello 👾 ~~
 
 My name is Renan and I’m a DevSecOps engineer, with a deep :heart: in cybersecurity and automation.
 
@@ -12,8 +12,8 @@ If you want to know more about me or my work, feel free to contact me via my soc
 
 <br />
 
-```yaml
-@@~/.skills 🛠️@@
+```diff
+@@ ~/.skills @@
 ```
 
 ### DevOps & Cloud Technologies
@@ -56,16 +56,16 @@ If you want to know more about me or my work, feel free to contact me via my soc
 
 <br />
 
-```yaml
-@@~/.stats 👽@@
+```diff
+@@ ~/.stats @@
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=tokyonight)
 
 <br />
 
-```yaml
-~/.contact 📫                                                                                                                                        :
+```diff
+@@ ~/.contact @@
 ```
 
 <br/>

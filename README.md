@@ -1,5 +1,5 @@
 
-```yaml
+```sql
 ~/.profile
 
 Name: Renan

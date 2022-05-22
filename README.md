@@ -1,6 +1,6 @@
 
 ```diff
-@ ~/.profile @
+@@ ~/.profile 👾@@
 ```
 
 Hello ~~
@@ -13,7 +13,7 @@ If you want to know more about me or my work, feel free to contact me via my soc
 <br />
 
 ```yaml
-~/.skills 🛠️
+@@~/.skills 🛠️@@
 ```
 
 ### DevOps & Cloud Technologies
@@ -57,7 +57,7 @@ If you want to know more about me or my work, feel free to contact me via my soc
 <br />
 
 ```yaml
-~/.stats 👽
+@@~/.stats 👽@@
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=tokyonight)

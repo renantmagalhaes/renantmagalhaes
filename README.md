@@ -58,7 +58,9 @@ If you want to know more about me or my work, feel free to contact me via my soc
 
 ```yaml
 ~/.stats                                                                                                                                :
-
+bg: white
+color: black
+style: center
 
 ```
 

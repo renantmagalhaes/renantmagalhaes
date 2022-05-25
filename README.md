@@ -59,8 +59,20 @@ If you want to know more about me or my work, feel free to contact me via my soc
 @@ ~/.stats @@
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <!-- <a href="https://github.com/renantmagalhaes?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=renantmagalhaes&layout=compact&theme=algolia&count_private=true"
+    />
+  </a> -->
+  <a href="https://github.com/renantmagalhaes?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=renantmagalhaes&show_icons=true&theme=tokyonight"
+    />
+  </a>
+</p>
 <br />
 
 ```diff

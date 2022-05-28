@@ -2,7 +2,7 @@
 ```diff
 @@ ~/.profile @@
 ```
-### Hello, name is Renan 👾
+# <img height="100px" src="./svg/rtm/ghost-violet.svg"> <img height="100px" src="./svg/rtm/hello.svg"> 
 
 I’m a DevSecOps engineer, with a deep :heart: in cybersecurity and automation.
 

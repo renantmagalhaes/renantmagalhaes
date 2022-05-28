@@ -2,7 +2,7 @@
 ```diff
 @@ ~/.profile @@
 ```
-# <img height="100px" src="./svg/rtm/ghost-violet.svg"> <img height="100px" src="./svg/rtm/hello.svg"> 
+<img height="100px" src="./svg/rtm/ghost-violet.svg"> <img height="100px" src="./svg/rtm/hello.svg"> 
 
 I’m a DevSecOps engineer, with a deep :heart: in cybersecurity and automation.
 

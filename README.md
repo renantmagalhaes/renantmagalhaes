@@ -12,6 +12,16 @@ If you want to know more about me or my work, feel free to contact me via my soc
 <br />
 
 ```diff
+@@ ~/.securitybydesign @@
+```
+
+Check my project <a href="https://github.com/securitybydesign">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-Security%20by%20Design-blueviolet"
+    /> </a> for all the security-related content I`m doing.
+
+```diff
 @@ ~/.skills @@
 ```
 

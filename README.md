@@ -12,7 +12,7 @@ If you want to know more about me or my work, feel free to contact me via my soc
 <br />
 
 ```diff
-@@ ~/.securitybydesign @@
+@@ ~/.insecurecodes @@
 ```
 
 Check my project <a href="https://github.com/insecurecodes">

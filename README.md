@@ -18,7 +18,7 @@ If you want to know more about me or my work, feel free to contact me via my soc
 Check my project <a href="https://github.com/insecurecodes">
     <img
       align="center"
-      src="https://img.shields.io/badge/-Insecure%20Codesblueviolet"
+      src="https://img.shields.io/badge/-Insecure%20Codes-blueviolet"
     /> </a> for all the security-related content I`m doing.
 
 ```diff

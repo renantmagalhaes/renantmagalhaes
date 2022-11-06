@@ -12,13 +12,13 @@ If you want to know more about me or my work, feel free to contact me via my soc
 <br />
 
 ```diff
-@@ ~/.securitybydesign @@
+@@ ~/.insecurecodes @@
 ```
 
-Check my project <a href="https://github.com/securitybydesign">
+Check my project <a href="https://github.com/insecurecodes">
     <img
       align="center"
-      src="https://img.shields.io/badge/-Security%20by%20Design-blueviolet"
+      src="https://img.shields.io/badge/-Insecure%20Codes-blueviolet"
     /> </a> for all the security-related content I`m doing.
 
 ```diff

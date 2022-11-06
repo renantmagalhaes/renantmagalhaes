@@ -106,7 +106,7 @@ Check my project <a href="https://github.com/securitybydesign">
   <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" />
 </a>
 <a href="https://twitter.com/renanTM90">
-  <img align="left" alt="RenanTM| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" />
+  <img align="left" alt="RenanTM| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />
 </a>
 <a href="https://www.linkedin.com/in/renantmagalhaes/">
   <img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />

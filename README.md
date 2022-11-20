@@ -1,25 +1,22 @@
-
 ```diff
 @@ ~/.profile @@
 ```
 <img height="100px" src="./svg/rtm/ghost-violet.svg"> <img height="100px" src="./svg/rtm/hello.svg"> 
 
-I’m a DevSecOps engineer, with a deep :heart: in cybersecurity and automation.
+I’m a Security engineer, with a deep :heart: in cybersecurity, automation and cloud technologies.
 
 If you want to know more about me or my work, feel free to contact me via my social media below or [access my website.](https://rtm.codes)
-
-
 <br />
 
 ```diff
 @@ ~/.insecurecodes @@
 ```
 
-Check my project <a href="https://github.com/insecurecodes">
+Check my <a href="https://github.com/insecurecodes">
     <img
       align="center"
       src="https://img.shields.io/badge/-Insecure%20Codes-blueviolet"
-    /> </a> for all the security-related content I`m doing.
+    /> </a> project, for all the security-related content I`m doing.
 
 ```diff
 @@ ~/.skills @@

@@ -99,7 +99,7 @@ Check my <a href="https://github.com/insecurecodes">
 ```
 
 <br/>
-<a href="mailto:renan@rtm.codes">
+<a href="mailto:rtm@insecure.codes">
   <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" />
 </a>
 <a href="https://twitter.com/renanTM90">

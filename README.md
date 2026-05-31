@@ -6,22 +6,25 @@
 
 I’m a Security engineer, with a deep :heart: in cybersecurity, automation and cloud technologies.
 
-If you want to know more about me or my work, feel free to contact me via my social media below or [access my website.](https://insecure.codes)
+If you want to know more about me or my work, feel free to contact me via my social media below or [access my website.](https://seclabs.cc)
 <br />
 
 ```diff
-@@ ~/.insecurecodes @@
+@@ ~/.seclabs-cc @@
 ```
 
-Check my <a href="https://github.com/insecurecodes">
+Check my <a href="https://github.com/seclabs-cc">
 <img
       align="center"
-      src="https://img.shields.io/badge/-Insecure%20Codes-blueviolet"
+      src="https://img.shields.io/badge/-Security%20Labs-blueviolet"
     /> </a> project, for all the security-related content I`m doing.
 
-````diff
+```diff
 @@ ~/.skills @@
-``### Cybersecurity & DevSecOps
+```
+
+### Cybersecurity & DevSecOps
+
 <p>
   <img alt="Zero Trust" src="https://img.shields.io/badge/-Zero%20Trust-000000?style=flat&logo=auth0&logoColor=white" />
   <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-3780A6?style=flat&logo=owasp&logoColor=white" />
@@ -35,6 +38,7 @@ Check my <a href="https://github.com/insecurecodes">
 </p>
 
 ### DevOps & Cloud Technologies
+
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FB542B?style=flat&logo=amazon&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
@@ -51,6 +55,7 @@ Check my <a href="https://github.com/insecurecodes">
 </p>
 
 ### Infrastructure & Network Technologies
+
 <p>
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
@@ -68,6 +73,7 @@ Check my <a href="https://github.com/insecurecodes">
 </p>
 
 ### Productivity & Communication Tools
+
 <p>
   <img alt="VivaldiBrowser" src="https://img.shields.io/badge/-VivaldiBrowser-EE0000?style=flat&logo=vivaldi&logoColor=white" />
   <img alt="Atlassian" src="https://img.shields.io/badge/-Atlassian-262577?style=flat&logo=atlassian&logoColor=white" />
@@ -78,10 +84,9 @@ Check my <a href="https://github.com/insecurecodes">
 
 <br />
 
-
 ```diff
 @@ ~/.contact @@
-````
+```
 
 <br/>
 <a href="mailto:renan@seclabs.cc">

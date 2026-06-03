@@ -10,7 +10,7 @@ If you want to know more about me or my work, feel free to contact me via my soc
 <br />
 
 ```diff
-@@ ~/.seclabs-cc @@
+@@ ~/.seclabs.cc @@
 ```
 
 Check my <a href="https://github.com/seclabs-cc">

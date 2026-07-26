@@ -6,14 +6,14 @@
 
 I’m a Security engineer, with a deep :heart: in cybersecurity, automation and cloud technologies.
 
-If you want to know more about me or my work, feel free to contact me via my social media below or [access my website.](https://seclabs.cc)
+If you want to know more about me or my work, feel free to contact me via my social media below or [access my website.](https://rtm.cc)
 <br />
 
 ```diff
-@@ ~/.seclabs.cc @@
+@@ ~/.rtm.cc @@
 ```
 
-Check my <a href="https://github.com/seclabs-cc">
+Check my <a href="https://github.com/rtm-cc">
 <img
       align="center"
       src="https://img.shields.io/badge/-Security%20Labs-blueviolet"
@@ -89,7 +89,7 @@ Check my <a href="https://github.com/seclabs-cc">
 ```
 
 <br/>
-<a href="mailto:renan@seclabs.cc">
+<a href="mailto:renan@rtm.cc">
   <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" />
 </a>
 <a href="https://www.linkedin.com/in/renantmagalhaes/">

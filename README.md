@@ -16,7 +16,7 @@ If you want to know more about me or my work, feel free to contact me via my soc
 Check my <a href="https://github.com/rtm-cc">
 <img
       align="center"
-      src="https://img.shields.io/badge/-Security%20Labs-blueviolet"
+      src="https://img.shields.io/badge/RTM%20Labs-blueviolet"
     /> </a> project, for all the security-related content I`m doing.
 
 ```diff

@@ -95,7 +95,7 @@ Check my <a href="https://github.com/rtm-cc">
 <a href="https://www.linkedin.com/in/renantmagalhaes/">
   <img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
-<a href="https://t.me/renantmagalhaes">
+<a href="https://t.me/rtm0x00">
   <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 <br />

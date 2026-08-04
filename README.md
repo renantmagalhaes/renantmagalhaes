@@ -1,3 +1,5 @@
+<div align="center">
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=7C3AED&reversal=true&section=header" />
@@ -12,7 +14,7 @@
 
 <img height="100px" src="./svg/rtm/ghost-violet.svg"> <img height="100px" src="./svg/rtm/hello.svg">
 
-I’m a security engineer with a deep passion for cybersecurity, automation, and cloud technologies.
+I’m a security engineer with a deep :heart: for cybersecurity, automation, and cloud technologies.
 
 I build and secure cloud-native systems, with a focus on DevSecOps, automation, and practical security engineering.
 
@@ -143,3 +145,5 @@ Explore <a href="https://github.com/rtm-cc">
 <!-- <p align="center" dir="auto">
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/Bottom.svg"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
 </p> -->
+
+</div>

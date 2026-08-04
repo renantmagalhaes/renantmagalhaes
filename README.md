@@ -1,3 +1,8 @@
+<div style="display: inline_block" align="center">
+   <a href="#">
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=131827&reversal=true&section=header"/>
+   </a>
+
 ```diff
 @@ ~/.profile @@
 ```
@@ -104,6 +109,10 @@ Check my <a href="https://github.com/rtm-cc">
 
 #### Best regards :shipit:
 
-<p align="center" dir="auto">
+<div style="display: inline_block" align="center">
+   <a href="#">
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=131827&reversal=true&section=footer"/>
+   </a>
+<!-- <p align="center" dir="auto">
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/Bottom.svg"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
-</p>
+</p> -->

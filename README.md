@@ -1,7 +1,10 @@
-<div style="display: inline_block" align="center">
-   <a href="#">
-       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=131827&reversal=true&section=header"/>
-   </a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=7C3AED&reversal=true&section=header" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=131827&reversal=true&section=header" />
+    <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7C3AED&reversal=true&section=header" />
+  </picture>
+</p>
 
 ```diff
 @@ ~/.profile @@
@@ -130,10 +133,13 @@ Explore <a href="https://github.com/rtm-cc">
 
 #### Best regards :shipit:
 
-<div style="display: inline_block" align="center">
-   <a href="#">
-       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=131827&reversal=true&section=footer"/>
-   </a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=7C3AED&reversal=true&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=131827&reversal=true&section=footer" />
+    <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7C3AED&reversal=true&section=footer" />
+  </picture>
+</p>
 <!-- <p align="center" dir="auto">
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/Bottom.svg"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
 </p> -->

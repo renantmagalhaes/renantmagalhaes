@@ -12,9 +12,13 @@
 @@ ~/.profile @@
 ```
 
-| | | |
-| :--- | :---: | ---: |
-| <img height="100" src="./svg/rtm/ghost-violet.svg" alt="" /> | <img src="./svg/rtm/hello.svg" alt="Hello" /> | <img height="100" src="./svg/rtm/ghost-violet.svg" alt="" /> |
+<img align="left" height="100px" src="./svg/rtm/ghost-violet.svg" alt="" />
+<img align="right" height="100px" src="./svg/rtm/ghost-violet.svg" alt="" />
+<p align="center">
+  <img height="100px" src="./svg/rtm/hello.svg" alt="Hello" />
+</p>
+
+<br clear="both" />
 
 I’m a security engineer with a deep :heart: for cybersecurity, automation, and cloud technologies.
 

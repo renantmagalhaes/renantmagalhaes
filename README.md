@@ -8,9 +8,7 @@
   </picture>
 </p>
 
-```diff
-@@ ~/.profile @@
-```
+<img width="100%" alt="Profile" src="https://capsule-render.vercel.app/api?type=checkered&height=30&color=gradient&text=@@%20~/.profile%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=ffffff" />
 
 <img align="left" height="100px" src="./svg/rtm/ghost-violet.svg" alt="" />
 <img align="right" height="100px" src="./svg/rtm/ghost-violet.svg" alt="" />
@@ -27,9 +25,7 @@ I build and secure cloud-native systems, with a focus on DevSecOps, automation, 
 To learn more about me or my work, feel free to connect with me on social media or visit [my website](https://rtm.cc).
 <br />
 
-```diff
-@@ ~/.rtm.cc @@
-```
+<img width="100%" alt="RTM" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:131827,100:7C3AED&text=@@%20~/.rtm.cc%20@@&textBg=false&animation=scaleIn&fontSize=10&fontColor=ffffff" />
 
 Explore <a href="https://github.com/rtm-cc">
 <img
@@ -37,9 +33,7 @@ Explore <a href="https://github.com/rtm-cc">
       src="https://img.shields.io/badge/RTM%20Labs-blueviolet"
     /> </a> for the security-focused content and projects I create.
 
-```diff
-@@ ~/.skills @@
-```
+<img width="100%" alt="Skills" src="https://capsule-render.vercel.app/api?type=rounded&height=30&color=0:0F766E,100:326CE5&text=@@%20~/.skills%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=ffffff" />
 
 ### Cybersecurity & DevSecOps
 
@@ -120,9 +114,7 @@ Explore <a href="https://github.com/rtm-cc">
 
 <br />
 
-```diff
-@@ ~/.contact @@
-```
+<img width="100%" alt="Contact" src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:7C3AED,100:131827&text=@@%20~/.contact%20@@&textBg=false&animation=twinkling&fontSize=10&fontColor=ffffff" />
 
 <br/>
 <p align="center">

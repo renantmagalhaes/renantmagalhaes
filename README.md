@@ -2,25 +2,25 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=CBD5E1&reversal=true&section=header" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=1F2937&reversal=true&section=header" />
-    <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=CBD5E1&reversal=true&section=header" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=161B22&reversal=true&section=header" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=24292F&reversal=true&section=header" />
+    <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=161B22&reversal=true&section=header" />
   </picture>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=CBD5E1&text=@@%20~/.profile%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=111827" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=1F2937&text=@@%20~/.profile%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=F8FAFC" />
-  <img width="100%" alt="Profile" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=CBD5E1&text=@@%20~/.profile%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=111827" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=161B22&text=@@%20~/.profile%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=24292F&text=@@%20~/.profile%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=F6F8FA" />
+  <img width="100%" alt="Profile" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=161B22&text=@@%20~/.profile%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=C9D1D9" />
 </picture>
 
 <img align="left" height="100px" src="./svg/rtm/ghost-violet.svg" alt="" />
 <img align="right" height="100px" src="./svg/rtm/ghost-violet.svg" alt="" />
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=speech&width=240&height=500&color=CBD5E1&text=hello%20!&animation=fadeIn&fontColor=111827" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=speech&width=240&height=500&color=1F2937&text=hello%20!&animation=fadeIn&fontColor=F8FAFC" />
-    <img width="240" height="100" src="https://capsule-render.vercel.app/api?type=speech&width=240&height=500&color=CBD5E1&text=hello%20!&animation=fadeIn&fontColor=111827" alt="hello" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=speech&width=240&height=500&color=161B22&text=hello%20!&animation=fadeIn&fontSize=200&fontColor=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=speech&width=240&height=500&color=24292F&text=hello%20!&animation=fadeIn&fontSize=200&fontColor=F6F8FA" />
+    <img width="240" height="100" src="https://capsule-render.vercel.app/api?type=speech&width=240&height=500&color=161B22&text=hello%20!&animation=fadeIn&fontSize=200&fontColor=C9D1D9" alt="hello" />
   </picture>
 </p>
 
@@ -34,9 +34,9 @@ To learn more about me or my work, feel free to connect with me on social media 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=CBD5E1&text=@@%20~/.rtm.cc%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=111827" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=1F2937&text=@@%20~/.rtm.cc%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=F8FAFC" />
-  <img width="100%" alt="RTM" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=CBD5E1&text=@@%20~/.rtm.cc%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=111827" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=161B22&text=@@%20~/.rtm.cc%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=24292F&text=@@%20~/.rtm.cc%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=F6F8FA" />
+  <img width="100%" alt="RTM" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=161B22&text=@@%20~/.rtm.cc%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=C9D1D9" />
 </picture>
 
 Explore <a href="https://github.com/rtm-cc">
@@ -46,9 +46,9 @@ Explore <a href="https://github.com/rtm-cc">
     /> </a> for the security-focused content and projects I create.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=CBD5E1&text=@@%20~/.skills%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=111827" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=1F2937&text=@@%20~/.skills%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=F8FAFC" />
-  <img width="100%" alt="Skills" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=CBD5E1&text=@@%20~/.skills%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=111827" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=161B22&text=@@%20~/.skills%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=24292F&text=@@%20~/.skills%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=F6F8FA" />
+  <img width="100%" alt="Skills" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=161B22&text=@@%20~/.skills%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=C9D1D9" />
 </picture>
 
 ### Cybersecurity & DevSecOps
@@ -131,9 +131,9 @@ Explore <a href="https://github.com/rtm-cc">
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=CBD5E1&text=@@%20~/.contact%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=111827" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=1F2937&text=@@%20~/.contact%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=F8FAFC" />
-  <img width="100%" alt="Contact" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=CBD5E1&text=@@%20~/.contact%20@@&textBg=false&animation=fadeIn&fontSize=10&fontColor=111827" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=161B22&text=@@%20~/.contact%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=30&color=24292F&text=@@%20~/.contact%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=F6F8FA" />
+  <img width="100%" alt="Contact" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=161B22&text=@@%20~/.contact%20@@&textBg=false&animation=fadeIn&fontSize=12&fontColor=C9D1D9" />
 </picture>
 
 <br/>
@@ -155,9 +155,9 @@ Explore <a href="https://github.com/rtm-cc">
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=CBD5E1&reversal=true&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=1F2937&reversal=true&section=footer" />
-    <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=CBD5E1&reversal=true&section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=161B22&reversal=true&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=24292F&reversal=true&section=footer" />
+    <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=161B22&reversal=true&section=footer" />
   </picture>
 </p>
 <!-- <p align="center" dir="auto">

@@ -54,7 +54,7 @@ Explore <a href="https://github.com/rtm-cc">
 ### Cybersecurity & DevSecOps
 
 <p>
-  <img alt="AI Security" src="https://img.shields.io/badge/-AI%20Security-000000?style=flat&logo=auth0&logoColor=red" />
+  <img alt="AI Security" src="https://img.shields.io/badge/-AI%20Security-2088FF?style=flat&logo=auth0&logoColor=red" />
   <img alt="Zero Trust" src="https://img.shields.io/badge/-Zero%20Trust-000000?style=flat&logo=auth0&logoColor=white" />
   <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-3780A6?style=flat&logo=owasp&logoColor=white" />
   <img alt="AWS Security" src="https://img.shields.io/badge/-AWS%20Security-FF9900?style=flat&logo=cloudflare&logoColor=white" />
